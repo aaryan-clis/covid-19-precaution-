@@ -1,0 +1,45 @@
+
+h1{
+    text-align: center;
+    color: aliceblue;
+    background-color: blue
+}
+h2{
+    color: coral;
+    font-size: 0.8cm;
+    font-weight: 800;
+    background-color: azure;
+    text-align: justify;
+}
+h3{
+    font-size: 0.8cm;
+    font-weight: 800;
+    color: coral;
+    background-color: aliceblue;
+    align-items: flex-start;
+    display: flex;
+}
+a{
+    position: static;
+    display: inline-block;
+    padding: 15px 30px;
+    margin-top: 20px;
+    background: #ff2562;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 0.5cm;
+    font-weight: 700;
+    letter-spacing:2px ;
+}
+img{
+    max-width: 500px;
+    position: relative;
+    padding-right: 100px;
+    
+}
+h4{
+    color: beige;
+    font-style: italic;
+    font-size: 0.6cm;
+}
